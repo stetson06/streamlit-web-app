@@ -1,1 +1,1 @@
-# dsi-streamlit-web-app
+# streamlit-web-app
